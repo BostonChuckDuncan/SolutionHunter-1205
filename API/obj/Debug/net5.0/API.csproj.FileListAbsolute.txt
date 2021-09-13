@@ -1,0 +1,544 @@
+D:\SolutionHunter\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SolutionHunter\API\bin\Debug\net5.0\appsettings.json
+D:\SolutionHunter\API\bin\Debug\net5.0\API.exe
+D:\SolutionHunter\API\bin\Debug\net5.0\API.deps.json
+D:\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SolutionHunter\API\bin\Debug\net5.0\API.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\ref\API.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\API.pdb
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\SolutionHunter\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SolutionHunter\API\obj\Debug\net5.0\API.dll
+D:\SolutionHunter\API\obj\Debug\net5.0\ref\API.dll
+D:\SolutionHunter\API\obj\Debug\net5.0\API.pdb
+D:\SolutionHunter\API\bin\Debug\net5.0\Humanizer.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SolutionHunter\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SolutionHunter\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SolutionHunter\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\appsettings.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\API.exe
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\API.deps.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\API.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\ref\API.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\API.pdb
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Humanizer.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.dll
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\ref\API.dll
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.pdb
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\appsettings.json
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\API.exe
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\API.deps.json
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\API.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\ref\API.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\API.pdb
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Humanizer.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Temp\31\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.dll
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\ref\API.dll
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.pdb
+D:\Temp\31\SolutionHunter\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SolutionHunter\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\appsettings.Development.json
+J:\SolutionHunter\API\bin\Debug\net5.0\appsettings.json
+J:\SolutionHunter\API\bin\Debug\net5.0\API.exe
+J:\SolutionHunter\API\bin\Debug\net5.0\API.deps.json
+J:\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.json
+J:\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+J:\SolutionHunter\API\bin\Debug\net5.0\API.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\ref\API.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\API.pdb
+J:\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Humanizer.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\SolutionHunter\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+J:\SolutionHunter\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+J:\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+J:\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+J:\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+J:\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+J:\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+J:\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+J:\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+J:\SolutionHunter\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+J:\SolutionHunter\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+J:\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CopyComplete
+J:\SolutionHunter\API\obj\Debug\net5.0\API.dll
+J:\SolutionHunter\API\obj\Debug\net5.0\ref\API.dll
+J:\SolutionHunter\API\obj\Debug\net5.0\API.pdb
+J:\SolutionHunter\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+M:\SolutionHunter\API\bin\Debug\net5.0\appsettings.Development.json
+M:\SolutionHunter\API\bin\Debug\net5.0\appsettings.json
+M:\SolutionHunter\API\bin\Debug\net5.0\API.exe
+M:\SolutionHunter\API\bin\Debug\net5.0\API.deps.json
+M:\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.json
+M:\SolutionHunter\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+M:\SolutionHunter\API\bin\Debug\net5.0\API.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\ref\API.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\API.pdb
+M:\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Humanizer.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\SolutionHunter\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\SolutionHunter\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+M:\SolutionHunter\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+M:\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+M:\SolutionHunter\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+M:\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+M:\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+M:\SolutionHunter\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+M:\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+M:\SolutionHunter\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+M:\SolutionHunter\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+M:\SolutionHunter\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+M:\SolutionHunter\API\obj\Debug\net5.0\API.csproj.CopyComplete
+M:\SolutionHunter\API\obj\Debug\net5.0\API.dll
+M:\SolutionHunter\API\obj\Debug\net5.0\ref\API.dll
+M:\SolutionHunter\API\obj\Debug\net5.0\API.pdb
+M:\SolutionHunter\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\publish\web.config
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\publish\API.deps.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\publish\API.runtimeconfig.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\publish\appsettings.json
+D:\SolutionHunter Testing\SolutionHunter\API\bin\Debug\net5.0\publish\wwwroot\assets\Images\selection.json
+D:\SolutionHunter Testing\SolutionHunter\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\ref\API.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.pdb
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\publish\web.config
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\appsettings.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\publish\API.deps.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\publish\API.runtimeconfig.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\publish\appsettings.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\publish\wwwroot\assets\Images\selection.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\API.exe
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\API.deps.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\API.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\ref\API.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\API.pdb
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\AutoMapper.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Humanizer.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SolutionHunter Testing\SolutionHunter - 1205\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\appsettings.json
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\API.exe
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\API.deps.json
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\API.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\ref\API.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\API.pdb
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\AutoMapper.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Humanizer.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\ref\API.dll
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.pdb
+D:\SolutionHunter Testing\SolutionHunter 1205\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\appsettings.json
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\API.exe
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\API.deps.json
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\API.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\ref\API.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\API.pdb
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\AutoMapper.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Humanizer.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SolutionHunter 1205\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.dll
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\ref\API.dll
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.pdb
+D:\SolutionHunter 1205\API\obj\Debug\net5.0\API.genruntimeconfig.cache
